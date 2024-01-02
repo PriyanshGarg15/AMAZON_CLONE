@@ -14,5 +14,6 @@ Technologies Used:
 · External images for a dynamic and engaging layout.
 
 # Screenshots
+![amazon_clone](https://github.com/PriyanshGarg15/AMAZON_CLONE/assets/116974262/441f7c58-778c-4b8d-9d97-cb4652f02454)
 
-![Uploading amazon_clone.jpg…]()
+
